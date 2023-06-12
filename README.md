@@ -52,13 +52,19 @@
   <p align="center">
     <img src="https://github.com/ramram222/TLST2/assets/101819398/e7741241-305b-403a-aad7-45fc979fdd3b" width=48%>
     <img src="https://github.com/ramram222/TLST2/assets/101819398/8b4808df-09fc-4d3d-86c8-e5a1eb605a24" width=48%>
+    <br><br>
     <img src="https://github.com/ramram222/TLST2/assets/101819398/6493b76d-dcc2-43e7-bf08-781ac27f7915" width=48%>
     <img src="https://github.com/ramram222/TLST2/assets/101819398/d32f8b4a-4009-4420-a22f-5856df784473" width=48%>
   </p>
   
   ### ZTZ-App
   <p align="center">
+    <img src="https://github.com/ramram222/TLST2/assets/101819398/bc701351-9a60-4154-8ae0-4aadb13c0f8d" width=32%>
+    <img src="https://github.com/ramram222/TLST2/assets/101819398/8882fd84-51c8-4636-8c62-d9d7dd6b6f13" width=32%>
+    <img src="https://github.com/ramram222/TLST2/assets/101819398/f60bfb87-cc9d-4add-afe4-4bbde611139e" width=32%><br>
+
+
   </p>
-  
+
 </div>
 
