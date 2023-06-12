@@ -46,4 +46,19 @@
     <img src="https://img.shields.io/badge/Gather-5882f7?style=for-the-badge&logo=Gather&logoColor=white"><br/>
   </p>
   
+  ## 화면 구성<br>
+  
+  ### ZTZ-Web
+  <p align="center">
+    <img src="https://github.com/ramram222/TLST2/assets/101819398/e7741241-305b-403a-aad7-45fc979fdd3b" width=48%>
+    <img src="https://github.com/ramram222/TLST2/assets/101819398/8b4808df-09fc-4d3d-86c8-e5a1eb605a24" width=48%>
+    <img src="https://github.com/ramram222/TLST2/assets/101819398/6493b76d-dcc2-43e7-bf08-781ac27f7915" width=48%>
+    <img src="https://github.com/ramram222/TLST2/assets/101819398/d32f8b4a-4009-4420-a22f-5856df784473" width=48%>
+  </p>
+  
+  ### ZTZ-App
+  <p align="center">
+  </p>
+  
 </div>
+
