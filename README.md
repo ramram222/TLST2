@@ -8,7 +8,7 @@
   # ZTZ (Zeon Tong Zu)
   - 우리 전통주 판매 활성화를 위한 전통주 판매 웹/앱 플랫폼<br>
   - 개발 기간: 2022.11.28 - 2023.01.26
-  - Github: 
+  - 개발 인원: 5명
   - Youtube: https://youtu.be/zWNYyjSMyQM
   <br>
   
@@ -50,7 +50,12 @@
   </p>
   <br>
   
+  ## 주요 기능
+  추가 예정
+  
+  
   ## ZTZ-Web
+  <br>
   <p align="center">
     <img src="https://github.com/ramram222/TLST2/assets/101819398/e7741241-305b-403a-aad7-45fc979fdd3b" width=48%>
     <img src="https://github.com/ramram222/TLST2/assets/101819398/8b4808df-09fc-4d3d-86c8-e5a1eb605a24" width=48%>
@@ -60,6 +65,7 @@
   </p>
   
   ## ZTZ-App
+  <br>
   <p align="center">
     <img src="https://github.com/ramram222/TLST2/assets/101819398/bc701351-9a60-4154-8ae0-4aadb13c0f8d" width=32%>
     <img src="https://github.com/ramram222/TLST2/assets/101819398/8882fd84-51c8-4636-8c62-d9d7dd6b6f13" width=32%>
