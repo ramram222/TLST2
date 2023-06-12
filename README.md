@@ -3,17 +3,20 @@
   # TLST2
   >에디 웹/앱 아카데미 TLST2 (Traditional Liquor Sales Team 2) 팀 프로젝트<br>
   >카페: https://cafe.naver.com/eddicorp 
+  <br>
   
   # ZTZ (Zeon Tong Zu)
-  
   - 우리 전통주 판매 활성화를 위한 전통주 판매 웹/앱 플랫폼<br>
   - 개발 기간: 2022.11.28 - 2023.01.26
+  - Github: 
+  - Youtube: https://youtu.be/zWNYyjSMyQM
+  <br>
   
   ## 프로젝트 소개
   최근 정부의 전통주 지원 사업에 임입어 전통주의 온라인 결제가 가능해짐에 따라 접근성이 향상되어 젊은 세대를 중심으로 전통주에 대한 이해와 선호도가 높아지고 있는 추세로 전통주 판매 활성화를 위한 전통주 판매 웹/앱 플랫폼을 기획하였습니다.
+  <br><br>
   
   ## 기술 스택
-  
   ### Front-end<br>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -45,10 +48,9 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     <img src="https://img.shields.io/badge/Gather-5882f7?style=for-the-badge&logo=Gather&logoColor=white"><br/>
   </p>
+  <br>
   
-  ## 화면 구성<br>
-  
-  ### ZTZ-Web
+  ## ZTZ-Web
   <p align="center">
     <img src="https://github.com/ramram222/TLST2/assets/101819398/e7741241-305b-403a-aad7-45fc979fdd3b" width=48%>
     <img src="https://github.com/ramram222/TLST2/assets/101819398/8b4808df-09fc-4d3d-86c8-e5a1eb605a24" width=48%>
@@ -57,7 +59,7 @@
     <img src="https://github.com/ramram222/TLST2/assets/101819398/d32f8b4a-4009-4420-a22f-5856df784473" width=48%>
   </p>
   
-  ### ZTZ-App
+  ## ZTZ-App
   <p align="center">
     <img src="https://github.com/ramram222/TLST2/assets/101819398/bc701351-9a60-4154-8ae0-4aadb13c0f8d" width=32%>
     <img src="https://github.com/ramram222/TLST2/assets/101819398/8882fd84-51c8-4636-8c62-d9d7dd6b6f13" width=32%>
