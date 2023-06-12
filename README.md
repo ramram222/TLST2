@@ -59,8 +59,6 @@
   <br>
   
   ## 화면 구성
-  <br>
-  
   <div align=center>
     <h3>ZTZ-Web</h3>
     <p>
